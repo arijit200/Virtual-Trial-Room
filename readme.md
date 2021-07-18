@@ -106,9 +106,9 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Ritwik Mandal - [@Linkdin](https://www.linkedin.com/in/ritwik-mandal-3487101a5) - ritwikmandalsubho@gmail.com
-Arnab Sharma - [@Linkdin](https://www.linkedin.com/in/arnab-sharma-56733118b) - arnab.sharma2019@gmail.com
-Arijit Dutta - [@Linkedin](https://www.linkedin.com/in/arijit-dutta-15b72a1b6) - rickdutta123@gmail.com
+- Ritwik Mandal - [@Linkdin](https://www.linkedin.com/in/ritwik-mandal-3487101a5) - ritwikmandalsubho@gmail.com
+- Arnab Sharma - [@Linkdin](https://www.linkedin.com/in/arnab-sharma-56733118b) - arnab.sharma2019@gmail.com
+- Arijit Dutta - [@Linkedin](https://www.linkedin.com/in/arijit-dutta-15b72a1b6) - rickdutta123@gmail.com
 
 
 
