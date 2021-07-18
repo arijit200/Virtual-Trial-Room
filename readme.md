@@ -107,5 +107,7 @@ Contributions are what make the open source community such an amazing place to b
 ## Contact
 
 Ritwik Mandal - [@Linkdin](https://www.linkedin.com/in/ritwik-mandal-3487101a5) - ritwikmandalsubho@gmail.com
+Arnab Sharma - [@Linkdin](https://www.linkedin.com/in/arnab-sharma-56733118b) - arnab.sharma2019@gmail.com
+
 
 
