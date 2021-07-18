@@ -71,21 +71,20 @@ git clone https://github.com/ritwik1923/vtr.git
 ### Install all required python module and run flask server
 ```sh
 pip install -r requirements.txt 
-cd vtr-python
+cd vtr-Server
 python server.py
 ```
 
-<<<<<<< HEAD
 ### to run the app
 ```sh
 cd vtr-app
 bash flrun.sh # For app make kindly run emulator or on any ios or android device
-=======
+```
+
 ### To run the app
 ```sh
 cd vtr-app
 bash flrun.sh # For app kindly make sure to run emulator or on any ios or android device
->>>>>>> 61b55d7c5c79c9d5db5999b664c94bf0ccf69820
 ```
 
 
